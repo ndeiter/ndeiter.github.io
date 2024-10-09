@@ -1,6 +1,6 @@
 const profileData = {
   title: "Resume",
-  name: "Nathan Tetteh Deiter",
+  name: "Nathan T. Deiter",
   sub_title: "System Administrator, and DevOps Engineer",
   logoURL: "assets/images/dp.jpg",
   about: {
